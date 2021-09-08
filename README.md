@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash0326
+- 👋 Hi, iamakashkumar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Html, css , javascript, nodejs, python
 - 💞️ I’m looking to collaborate on web development
