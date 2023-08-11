@@ -80,7 +80,7 @@ Whastsapp : https://wa.me/918789680417
 
 Visit :- https://iamakashkumar.github.io/akash
 
-Social media - https://www.instagram.com/i.am.akash.kumar
+Social media - https://www.instagram.com/akashkumarsharma03
 <!---
 Akash0326/Akash0326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
