@@ -2,7 +2,7 @@
 
 📧 Email: akashkumar0326@gmail.com | 📞 Phone: +91 8789680417
 🔗 LinkedIn: [linkedin.com/in/akashkumarsharma03](https://www.linkedin.com/in/akashkumarsharma03/)
-
+📝 [Resume](https://in.docworkspace.com/d/sIDb1h-DcAfKN2qYG)
 ---
 
 ## 👨‍💻 About Me
@@ -76,7 +76,7 @@ Java ☕ | Python 🐍 | JavaScript 🌐 | Selenium 🌟 | TestNg 📊 | Maven �
 
 ## 🌐 Connect With Me
 
-[Linktree](https://linktr.ee/akash0326) | [WhatsApp](https://wa.me/918789680417) | [My Portfolio](https://iamakashkumar.github.io/akash) | [Instagram](https://www.instagram.com/akashkumarsharma03)
+[Linktree](https://linktr.ee/akash0326) | [WhatsApp](https://wa.me/918789680417) | [My Portfolio](https://iamakashkumar.github.io/akash) | [Instagram](https://www.instagram.com/akashkumarsharma03) | [Resume](https://in.docworkspace.com/d/sIDb1h-DcAfKN2qYG)
 
 ---
 
