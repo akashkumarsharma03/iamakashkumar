@@ -1,87 +1,87 @@
-# Akash Kumar Sharma
+# Akash Kumar Sharma 🚀
 
 📧 Email: akashkumar0326@gmail.com | 📞 Phone: +91 8789680417
 🔗 LinkedIn: [linkedin.com/in/akashkumarsharma03](https://www.linkedin.com/in/akashkumarsharma03/)
 
 ---
 
-## Summary
+## 👨‍💻 About Me
 
-I am a Full Stack Quality Assurance professional with nearly 2 years of experience, specializing in agile methodology, automation testing, and full stack development. Proactive in seeking new challenges and exploring analytical-development techniques. Strong understanding of technical and functional aspects to implement client requirements. Skilled in Java, Python, JavaScript, Selenium, TestNg, Maven, Cucumber, Junit, PyTest, Cypress, Rest Assured, Postman, Swagger, JMeter, SQL Server, MongoDB, Bitbucket, Git, Jenkins, Docker, and more.
+Hey there! I'm Akash, a passionate Full Stack Quality Assurance professional with nearly 2 years of hands-on experience. 🧪🔍 I thrive on challenges and love to explore innovative analytical-development techniques. I'm your go-to person for all things Agile, Automation, and Full Stack Development. 💼💻
 
----
+## 🛠️ Toolbox
 
-## Experience
+Java ☕ | Python 🐍 | JavaScript 🌐 | Selenium 🌟 | TestNg 📊 | Maven 🧰 | Cucumber 🥒 | Junit 🧪 | PyTest 🐘 | Cypress 🌲 | Rest Assured 📦 | Postman 💌 | Swagger 🐾 | JMeter ⚙️ | SQL Server 📊 | MongoDB 🍃 | Git 📚 | Jenkins 🚀 | Docker 🐳
+
+## 🏆 Experience
 
 ### Senior Technical Associate, PolicyBazaar
 *April 2023 - Present*
-- Leveraging skills in Java, Python, and JavaScript.
-- Utilizing frameworks and libraries: Selenium, TestNg, Maven, Cucumber, Junit, PyTest, Cypress, Rest Assured, Postman, Swagger, SoapUI, JMeter.
-- Accelerated the issuance process by automating modules.
-- Contributed to full stack Quality Assurance and testing.
+- 🚀 Leveraging Java, Python, and JavaScript wizardry.
+- 🛠️ Crafting magic with Selenium, TestNg, Maven, and more.
+- 🤖 Automating like a champ with PyTest, Cypress, and JMeter.
+- 🚀 Accelerating processes through automation - Issuance, I'm looking at you!
+- 🌐 Contributing to a full-stack QA and testing extravaganza.
 
 ### QA Engineer, PolicyBazaar
 *Oct 2021 - April 2023*
-- Led Automation testing, including API, Database, and UI automation.
-- Implemented DevOps practices: Jenkins, Docker.
-- Played a pivotal role in delivering end-to-end solutions for insurance clients.
-- Awarded Best Team of the Year in 2022.
+- 🚀 Captain of the Automation brigade - API, Database, UI - you name it!
+- ☁️ Cloud-native DevOps aficionado - Jenkins, Docker, and all things CI/CD.
+- 🚀 Unleashing end-to-end solutions for insurance titans.
+- 🏆 Crowned with the Best Team of the Year award in 2022.
 
 ---
 
-## Education
+## 📚 Education
 
 ### B.Tech (ME), [Your University]
 *2016 - 2020*
-- Achieved a GPA of 69.6%.
+- 📚 Embarked on a GPA odyssey with an impressive 69.6% at the helm.
 
 ### E2E, PolicyBazaar
 *2021 - Present*
-- Contributed as an integral member of the E2E team.
-- Automated the customer portal end to end.
-- Proficient in SQL Server and MongoDB databases.
+- 🚀 Integral member of the E2E commando unit.
+- 🚀 Automating the customer portal from dawn till dusk.
+- 📊 Mastering SQL Server and MongoDB in the database dojo.
 
 ---
 
-## Achievements
+## 🏅 Achievements
 
-- Awarded Best Team of the Year in 2022 at PolicyBazaar.
-- Completed various certifications in testing and quality assurance.
+- 🏆 Wearing the Best Team of the Year badge from 2022 at PolicyBazaar.
+- 📜 Rocking various certifications in testing and quality assurance.
 
 ---
 
-## Professional Projects
+## 🚀 Projects That Spark Joy
 
 ### Automated Customer Portal, PolicyBazaar
-- Implemented automation testing using PyTest, Selenium, and Cypress.
-- Created and maintained test plans, cases, and scenarios.
-- Achieved end-to-end automation for a seamless customer experience.
+- ⚡️ PyTest, Selenium, and Cypress came together in a symphony of automation.
+- 📊 Crafting and curating test plans, cases, and scenarios.
+- 🌐 Navigating the e2e automation highway for a seamless customer experience.
 
 ### Full Stack QA, PolicyBazaar
-- Accelerated the issuance process through module automation.
-- Contributed to API, database, and UI automation.
+- 🚀 Module automation to the rescue - streamlining the issuance process.
+- 🌐 Contributing to the grand symphony of API, database, and UI automation.
 
 ---
 
-## Interests / Hobbies
+## 🎨 Interests / Hobbies
 
-- Cooking
-- Sketching
-- Badminton
-
+- 🍳 Cooking up coding delicacies
+- 🎨 Sketching tech dreams
+- 🏸 Mastering the art of Badminton
 
 ---
 
-## Contact Information
+## 🌐 Connect With Me
 
-[Linktree](https://linktr.ee/akash0326)
+[Linktree](https://linktr.ee/akash0326) | [WhatsApp](https://wa.me/918789680417) | [My Portfolio](https://iamakashkumar.github.io/akash) | [Instagram](https://www.instagram.com/akashkumarsharma03)
 
-Whastsapp : https://wa.me/918789680417
+---
 
-Visit :- https://iamakashkumar.github.io/akash
+> "The only way to do great work is to love what you do." - Steve Jobs 🚀🎉
 
-Social media - https://www.instagram.com/akashkumarsharma03
-<!---
-Akash0326/Akash0326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+This profile README is a canvas of my journey, skills, and passions. Let's connect, collaborate, and create wonders together! 🚀👨‍💻🎉
