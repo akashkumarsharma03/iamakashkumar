@@ -6,8 +6,12 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iamakashkumar)
 
 
-📧 Email: akashkumar0326@gmail.com | 📞 Phone: +91 8789680417
+📧 Email: akashkumar0326@gmail.com 
+
+📞 Phone: +91 8789680417
+
 🔗 LinkedIn: [linkedin.com/in/akashkumarsharma03](https://www.linkedin.com/in/akashkumarsharma03/)
+
 📝 [Resume](https://in.docworkspace.com/d/sIDb1h-DcAfKN2qYG)
 ---
 
