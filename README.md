@@ -34,7 +34,7 @@ Java ☕ | Python 🐍 | JavaScript 🌐 | Selenium 🌟 | TestNg 📊 | Maven �
 
 ## 📚 Education
 
-### B.Tech (ME), [GGSETC](https://www.bing.com/ck/a?!&&p=aa0770ac59632534JmltdHM9MTY5MTcxMjAwMCZpZ3VpZD0wODc4MmY4YS1kMzAzLTYxZDItMGVkZS0zY2UyZDI5ZjYwZDUmaW5zaWQ9NTE5OQ&ptn=3&hsh=3&fclid=08782f8a-d303-61d2-0ede-3ce2d29f60d5&psq=ggsetc&u=a1aHR0cHM6Ly9nZ3Nlc3RjLmFjLmluLw&ntb=1)
+### B.Tech (ME), [VBU](https://www.vbu.ac.in/)
 *2016 - 2020*
 - 📚 Embarked on a GPA odyssey with an impressive 69.6% at the helm.
 
