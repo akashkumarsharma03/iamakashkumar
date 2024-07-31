@@ -1,10 +1,5 @@
 # Akash Kumar Sharma 😶‍🌫️
 
-![Alt Text](https://camo.githubusercontent.com/65087739c9fca64ad1540c0e9978dd775ff01ee54ef7edf089a6c9c50397d60d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72616a6174743935266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=iamakashkumar)
-
 
 📧 Email: akashkumar0326@gmail.com 
 
@@ -75,16 +70,13 @@ Java ☕ | Python 🐍 | JavaScript 🌐 | Selenium 🌟 | TestNg 📊 | Maven �
 - 🌐 Contributing to the grand symphony of API, database, and UI automation.
 
 ---
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamakashkumar&repo=javaAutomation)
----
----
 ## 🎨 Interests / Hobbies
 
 - 🏸 Mastering the art of Badminton
 - 🍳 Cooking up coding delicacies
 - 🎨 Sketching dreams
   
-![WhatsApp Image 2023-05-22 at 16 05 21](https://github.com/iamakashkumar/iamakashkumar/assets/78015587/72782a1c-87bd-4969-8c76-3e775e1f09d9)
+  <img src="https://github.com/iamakashkumar/iamakashkumar/assets/78015587/72782a1c-87bd-4969-8c76-3e775e1f09d9" style="width:400px; height:500px;">
 
 ---
 
