@@ -82,7 +82,7 @@ Java ☕ | Python 🐍 | JavaScript 🌐 | Selenium 🌟 | TestNg 📊 | Maven �
 
 ## 🌐 Connect With Me
 
-[Linktree](https://linktr.ee/akash0326) | [WhatsApp](https://wa.me/918789680417) | [My Portfolio](https://iamakashkumar.github.io/akash) | [Instagram](https://www.instagram.com/akashkumarsharma03) | [Resume](https://in.docworkspace.com/d/sIDb1h-DcAfKN2qYG)
+[Linktree](https://linktr.ee/akash0326) | [WhatsApp](https://wa.me/918789680417) | [My Portfolio](https://github.com/akashkumarsharma03/iamakashkumar/edit/main/README.md) | [Instagram](https://www.instagram.com/akashkumarsharma03) | [Resume](https://in.docworkspace.com/d/sIDb1h-DcAfKN2qYG)
 
 ---
 
