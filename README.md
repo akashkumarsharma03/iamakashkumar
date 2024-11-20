@@ -1,26 +1,28 @@
-# **✨ Akash Kumar Sharma** 😶‍🌫️
+# ✨ Akash Kumar Sharma 😶‍🌫️
 
-📧 **Email:** [iamakash0326@gmail.com](mailto:iamakash0326@gmail.com)  
-📞 **Phone:** +91-8789680417  
-🔗 **LinkedIn:** [linkedin.com/in/akashkumarsharma03](https://www.linkedin.com/in/akashkumarsharma03/)
+**Email:** [iamakash0326@gmail.com](mailto:iamakash0326@gmail.com)  
+**Phone:** +91-8789680417  
+**LinkedIn:** [linkedin.com/in/akashkumarsharma03](https://www.linkedin.com/in/akashkumarsharma03/)  
+**GitHub:** [github.com/akashkumarsharma03](https://github.com/akashkumarsharma03)  
+**Twitter:** [x.com/akashksharma03](https://x.com/akashksharma03)  
+**Facebook:** [facebook.com/akashkumarsharma03](https://facebook.com/akashkumarsharma03)  
 
 ---
 
-## 👨‍💻 **About Me**  
+## 👨‍💻 About Me
+
 Hey! I'm Akash, a **Full Stack Quality Assurance Engineer** with a passion for **Agile, Automation**, and **Full Stack Development**. With nearly 2 years of experience, I thrive on **solving complex problems** and pushing the boundaries of what’s possible with technology. I believe in **innovative approaches**, **continuous learning**, and **delivering impactful solutions** that drive success. 🚀
 
 ---
 
-## 🛠️ **Toolbox** 🧰
+## 🛠️ Toolbox 🧰
 
-I bring a powerful arsenal of tools to ensure smooth, efficient, and high-quality development:
-
-### **Languages:**
+**Languages:**
 - Java ☕
 - Python 🐍
 - JavaScript 🌐
 
-### **Testing & Automation Frameworks:**
+**Testing & Automation Frameworks:**
 - Selenium 🌟
 - TestNG 📊
 - JUnit 🧪
@@ -28,7 +30,7 @@ I bring a powerful arsenal of tools to ensure smooth, efficient, and high-qualit
 - Cypress 🌲
 - Playwright 👾
 
-### **Tools & Libraries:**
+**Tools & Libraries:**
 - Maven 🧰
 - Cucumber 🥒
 - Postman 💌
@@ -36,11 +38,11 @@ I bring a powerful arsenal of tools to ensure smooth, efficient, and high-qualit
 - Rest Assured 📦
 - JMeter ⚙️
 
-### **Databases:**
+**Databases:**
 - SQL Server 📊
 - MongoDB 🍃
 
-### **DevOps & CI/CD:**
+**DevOps & CI/CD:**
 - Jenkins 🚀
 - Docker 🐳
 - Git 📚
@@ -49,90 +51,87 @@ I bring a powerful arsenal of tools to ensure smooth, efficient, and high-qualit
 
 ---
 
-## 🏆 **Experience** 💼
+## 🏆 Experience 💼
 
-### **SDET | GlobalLogic**  
-*April 2023 - Present*  
-🚀 Innovating with emerging technologies to automate solutions.  
-🛠️ Working with **Playwright**, **Cypress**, and **WebDriverIO**.  
-🌐 Deepening my expertise in **Cloud** and **DevOps** technologies.  
+### **SDET | GlobalLogic**
+*April 2023 - Present*
+- 🚀 Innovating with emerging technologies to automate solutions.
+- 🛠️ Working with **Playwright**, **Cypress**, and **WebDriverIO**.
+- 🌐 Deepening expertise in **Cloud** and **DevOps** technologies.
 
-### **Senior Technical Associate | PolicyBazaar**  
-*April 2023 - Present*  
-🚀 Pioneering automation with **Java**, **Python**, and **JavaScript**.  
-🛠️ Mastering **Selenium**, **TestNG**, **Cypress**, **PyTest**, and **JMeter** for robust testing solutions.  
-🤖 Spearheading automation for **insurance processes** and end-to-end solutions.  
+### **Senior Technical Associate | PolicyBazaar**
+*April 2023 - Present*
+- 🚀 Pioneering automation with **Java**, **Python**, and **JavaScript**.
+- 🛠️ Mastering **Selenium**, **TestNG**, **Cypress**, **PyTest**, and **JMeter** for robust testing solutions.
+- 🤖 Spearheading automation for **insurance processes** and end-to-end solutions.
 
-### **QA Engineer | PolicyBazaar**  
-*Oct 2021 - April 2023*  
-🚀 Led **API**, **UI**, and **Database** automation.  
-☁️ Managed cloud-native solutions with **Jenkins**, **Docker**, and CI/CD pipelines.  
-🏆 **Best Team of the Year 2022** – Acknowledged for excellence in teamwork and performance.
+### **QA Engineer | PolicyBazaar**
+*Oct 2021 - April 2023*
+- 🚀 Led **API**, **UI**, and **Database** automation.
+- ☁️ Managed cloud-native solutions with **Jenkins**, **Docker**, and CI/CD pipelines.
+- 🏆 **Best Team of the Year 2022** – Acknowledged for excellence in teamwork and performance.
 
 ---
 
-## 🎓 **Education** 📚
+## 🎓 Education 📚
 
-### **B.Tech (Mechanical Engineering)** | [VBU](https://www.vbu.ac.in/)  
-*2016 - 2020*  
-- GPA: **69.6%**  
+### **B.Tech (Mechanical Engineering) | [VBU](https://www.vbu.ac.in/)**
+*2016 - 2020*
+- GPA: **69.6%**
 - Specialized in **Engineering Mechanics** and **Thermodynamics**.
 
 ---
 
-## 💡 **Key Projects** 🚀
+## 💡 Key Projects 🚀
 
-### **Multiple-Clients | GlobalLogic**  
-*2021 - Present*  
+### **Multiple-Clients | GlobalLogic**
+*2021 - Present*
 - 🚀 Developed a **SaaS product** with a focus on **Cloud** and **Security**.
 
-### **E2E Automation | PolicyBazaar**  
-*2021 - Present*  
-- 🚀 Integral member of the **E2E automation team**.  
+### **E2E Automation | PolicyBazaar**
+*2021 - Present*
+- 🚀 Integral member of the **E2E automation team**.
 - 📊 Automated the **customer portal** and optimized **SQL Server** and **MongoDB** integrations.
 
 ---
 
-## 🏅 **Achievements** 🏆
+## 🏅 Achievements 🏆
 
-- **Best Team of the Year (2022)** | **PolicyBazaar**  
+- **Best Team of the Year (2022)** | **PolicyBazaar**
 - Numerous **certifications** in **Quality Assurance** and **Test Automation**.
 
 ---
 
-## 🔧 **Projects That Spark Joy** 🔥
+## 🔧 Projects That Spark Joy 🔥
 
-### **API Tool**  
-Explore the project here: [GitHub Repo](https://github.com/akashkumarsharma03/akashApiTest/blob/main/README.md)
+### **API Tool**
+- [GitHub Repo](https://github.com/akashkumarsharma03/akashApiTest/blob/main/README.md)
 
-### **Speech Automation (Text to Speech & Speech to Text)**  
-Explore the project here: [GitHub Repo](https://github.com/akashkumarsharma03/speechautomationCDN)
+### **Speech Automation (Text to Speech & Speech to Text)**
+- [GitHub Repo](https://github.com/akashkumarsharma03/speechautomationCDN)
 
 ---
 
-## 🎨 **Interests / Hobbies** 🎮
+## 🎨 Interests / Hobbies 🎮
 
 When I’m not working, I’m either:
 
-- 🏸 **Mastering Badminton** – Serving up some serious smashes!  
-- 🍳 **Cooking up Coding Delicacies** – Crafting both code and culinary creations.  
+- 🏸 **Mastering Badminton** – Serving up some serious smashes!
+- 🍳 **Cooking up Coding Delicacies** – Crafting both code and culinary creations.
 - 🎨 **Sketching Dreams** – A quick sketch of my next big idea.
 
- <img src="https://github.com/iamakashkumar/iamakashkumar/assets/78015587/72782a1c-87bd-4969-8c76-3e775e1f09d9" style="width:400px; height:500px;">
----
-
-## 🌐 **Let's Connect!** 🔗
-
-- [Linktree](https://linktr.ee/akash0326)  
-- [WhatsApp](https://wa.me/918789680417)  
-- [Portfolio](https://github.com/akashkumarsharma03/iamakashkumar/edit/main/README.md)  
-- [Instagram](https://www.instagram.com/akashkumarsharma03)  
-- [Resume](https://in.docworkspace.com/d/sIDb1h-DcAfKN2qYG)
+![Akash's Image](https://github.com/iamakashkumar/iamakashkumar/assets/78015587/72782a1c-87bd-4969-8c76-3e775e1f09d9)
 
 ---
 
-> "The only way to do great work is to love what you do." – **Steve Jobs** 🚀🎉
+## 🌐 Connect With Me
+
+- [GitHub](https://github.com/akashkumarsharma03)
+- [Twitter](https://x.com/akashksharma03)
+- [Facebook](https://facebook.com/akashkumarsharma03)
+
+> "The only way to do great work is to love what you do." - Steve Jobs 🚀🎉
 
 ---
 
-This is more than just a profile; it's a reflection of my journey, skills, and passion for **innovation** and **quality**. Let’s connect and create something extraordinary together! 💥
+This **README** represents my journey, skills, and passions. Let's connect, collaborate, and create wonders together! 🚀👨‍💻🎉
