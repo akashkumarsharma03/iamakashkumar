@@ -118,8 +118,7 @@ When I’m not working, I’m either:
 - 🍳 **Cooking up Coding Delicacies** – Crafting both code and culinary creations.  
 - 🎨 **Sketching Dreams** – A quick sketch of my next big idea.
 
-![Akash's Image](https://github.com/iamakashkumar/iamakashkumar/assets/78015587/72782a1c-87bd-4969-8c76-3e775e1f09d9)
-
+ <img src="https://github.com/iamakashkumar/iamakashkumar/assets/78015587/72782a1c-87bd-4969-8c76-3e775e1f09d9" style="width:400px; height:500px;">
 ---
 
 ## 🌐 **Let's Connect!** 🔗
